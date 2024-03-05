@@ -59,4 +59,5 @@
     I am comfortable working on different systems like Kali, Ubuntu and Windows. I enjoy being part of the developer community on sites like Reddit and Stack Overflow.
     My GitHub stats show my dedication to coding, with discussions started and pull requests merged.
     Join me on my coding journey and follow me on GitHub!
+    I also like collectiong the badges!
 </details>
