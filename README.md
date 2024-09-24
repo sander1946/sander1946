@@ -25,7 +25,9 @@
 
 # 📊 Stats
 
-![Sander1946's GitHub stats](https://github-readme-stats.vercel.app/api?username=sander1946&show_icons=true&theme=cobalt&show=discussions_started,prs_merged)
+![Sander1946's Stats](https://github-readme-stats.vercel.app/api?username=Sander1946&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)\
+![Sander1946's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sander1946&theme=tokyonight&hide_border=false)\
+![Sander1946's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sander1946&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 # 🧰 Languages and Tools
 
