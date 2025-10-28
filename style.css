@@ -1,0 +1,24 @@
+.background {
+  /* background: center no-repeat url(background.png); */
+  background: #F41DFD;
+  background: linear-gradient(135deg,rgba(244, 29, 253, 1) 0%, rgba(37, 211, 254, 1) 100%);
+}
+
+.logo {
+  background-image: url(https://github.com/hritwikjohri/Void-for-jellyfin/blob/main/app/src/main/res/drawable/void_logo.png);
+}
+
+.progressBar {
+  /* background-color: rgb(238, 255, 65); */
+  background: #F41DFD;
+  background: linear-gradient(90deg,rgba(244, 29, 253, 1) 0%, rgba(37, 211, 254, 1) 100%);
+}
+
+.splash {
+  background-image: url(https://github.com/hritwikjohri/Void-for-jellyfin/blob/main/app/src/main/res/drawable/void_logo.png);
+}
+
+.watermark {
+  background-image: url(https://github.com/hritwikjohri/Void-for-jellyfin/blob/main/app/src/main/res/drawable/void_icon.png);
+  background-size: 57px 57px;
+}
